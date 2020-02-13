@@ -12,3 +12,4 @@ Nuxt.js Server Rendered (Universal SSR) Demo.
 - Nuxt.js Server Rendered (Universal SSR)
 #### back end project [beegoapi]
 - golang beego api project
+![nuxt beego](https://github.com/royrliu/nuxtssr/blob/master/nuxtbeego.png)
