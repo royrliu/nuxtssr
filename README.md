@@ -6,5 +6,5 @@ nuxtexpress
 nuxt + node.js express api
 
 ## dev framework 2
-nuxtbeego
+nuxtgo
 nuxt + golang beego api
