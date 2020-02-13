@@ -8,4 +8,5 @@ Nuxt.js Server Rendered (Universal SSR) Demo.
 
 ## dev framework 2 
 ### nuxtgo
+#### front end project [nuxtbeego]
 - nuxt + golang beego api
