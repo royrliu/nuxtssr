@@ -16,6 +16,7 @@ $ npm run dev
 $ npm start
 ```
 
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
-[Vue SSR Guide](https://ssr.vuejs.org/#what-is-server-side-rendering-ssr)
-[nuxt-community](https://github.com/nuxt-community/express-template)
+## reference
+- [Vue SSR Guide](https://ssr.vuejs.org/#what-is-server-side-rendering-ssr)
+- [Using Nuxt.js Programmatically](https://nuxtjs.org/api/nuxt)
+- [nuxt-express](https://github.com/nuxt-community/express-template)
