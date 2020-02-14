@@ -19,3 +19,4 @@ Nuxt.js Server Rendered (Universal SSR) Demo.
 - [Using Nuxt.js Programmatically](https://nuxtjs.org/api/nuxt)
 - [nuxt-express](https://github.com/nuxt-community/express-template)
 - [nuxtjs-server-middleware-as-a-proxy](https://mccallister.io/using-nuxtjs-server-middleware-as-a-proxy-pass)
+- [beego](https://beego.me/)
