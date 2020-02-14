@@ -1,6 +1,9 @@
 # OS
 .DS_Store 
 
+# dev tool
+.vscode
+
 # bin
 beegoapi
 
