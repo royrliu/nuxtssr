@@ -4,8 +4,8 @@
 # dev tool
 .vscode
 
-# bin
-beegoapi
-
 # tmp
 lastupdate.tmp
+
+# bin
+beegoapi

@@ -9,9 +9,9 @@ var (
 )
 
 func init() {
-	u1 := User{"1", "Alexandre"}
-	u2 := User{"2", "Pooya"}
-	u3 := User{"3", "Sébastien"}
+	u1 := User{"1", "Saleforce"}
+	u2 := User{"2", "TypeScript"}
+	u3 := User{"3", "Docker"}
 	UserList = append(UserList, u1, u2, u3)
 }
 
