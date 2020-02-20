@@ -1,4 +1,8 @@
 module.exports = {
+  server: {
+    port: 3100, // default: 3000
+    host: '0.0.0.0' // default: localhost
+  },
   /*
   ** Headers of the page
   */
@@ -20,20 +24,21 @@ module.exports = {
   /*
   ** Add axios globally
   */
+ plugins: ['~/plugins/antd'],
   build: {
     vendor: ['axios'],
     /*
     ** Run ESLINT on save
     */
     extend (config, ctx) {
-      if (ctx.isDev && ctx.isClient) {
-        config.module.rules.push({
-          enforce: 'pre',
-          test: /\.(js|vue)$/,
-          loader: 'eslint-loader',
-          exclude: /(node_modules)/
-        })
-      }
+      // if (ctx.isDev && ctx.isClient) {
+      //   config.module.rules.push({
+      //     enforce: 'pre',
+      //     test: /\.(js|vue)$/,
+      //     loader: 'eslint-loader',
+      //     exclude: /(node_modules)/
+      //   })
+      // }
     }
   },
   serverMiddleware: [
