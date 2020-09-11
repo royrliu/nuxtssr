@@ -15,7 +15,7 @@
     "ant-design-vue": "^1.4.11",
     "axios": "^0.18.0",
     "cross-env": "^5.2.0",
-    "http-proxy": "^1.18.0",
+    "http-proxy": "^1.18.1",
     "nuxt": "latest",
     "source-map-support": "^0.4.18"
   },
